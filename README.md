@@ -64,7 +64,7 @@ All design values live in `styles/globals.css` as CSS custom properties:
 
 | Token             | Value                 |
 | ----------------- | --------------------- |
-| `--color-primary` | `#1100f9` (azra2aani) |
+| `--color-primary` | `#781423` (a7mareeka) |
 | `--color-success` | `#10b981` (emerald)   |
 | `--color-warning` | `#f59e0b` (amber)     |
 | `--color-danger`  | `#ef4444` (red)       |
