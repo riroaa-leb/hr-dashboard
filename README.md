@@ -67,7 +67,7 @@ All design values live in `styles/globals.css` as CSS custom properties:
 | `--color-primary` | `#781423` (a7mareeka)           |
 | `--color-success` | `#10b981` (emerald ya habeebii) |
 | `--color-warning` | `#f59e0b` (amber what)          |
-| `--color-danger`  | `#ef4444` (red)                 |
+| `--color-danger`  | `#ef4444` (red sho)             |
 | `--sidebar-width` | `240px`                         |
 | `--topbar-height` | `64px`                          |
 
