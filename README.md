@@ -62,6 +62,7 @@ open http://localhost:3000
 
 All design values live in `styles/globals.css` as CSS custom properties:
 
+<<<<<<< HEAD
 | Token             | Value                     |
 | ----------------- | ------------------------- |
 | `--color-primary` | `#781423` (a7mareeka)     |
@@ -70,6 +71,16 @@ All design values live in `styles/globals.css` as CSS custom properties:
 | `--color-danger`  | `#ef4444` (red)           |
 | `--sidebar-width` | `240px`                   |
 | `--topbar-height` | `64px`                    |
+=======
+| Token             | Value                          |
+| ----------------- | ------------------------------ |
+| `--color-primary` | `#781423` (a7mareeka)          |
+| `--color-success` | `#10b981` (emerald ya habeebi) |
+| `--color-warning` | `#f59e0b` (amber)              |
+| `--color-danger`  | `#ef4444` (red)                |
+| `--sidebar-width` | `240px`                        |
+| `--topbar-height` | `64px`                         |
+>>>>>>> feature/color
 
 ## Extending
 
